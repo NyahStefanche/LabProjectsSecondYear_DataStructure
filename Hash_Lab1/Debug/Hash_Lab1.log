@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Stefanche\Desktop\My Stuff\University Stuff 2nd Year (First Semester)\Strukturi ot danni - Laboratorni uprajneniq\Programi\Hash_Lab1\Hash.h(39,11): error C2760: syntax error: unexpected token 'identifier', expected 'type specifier'
+C:\Users\Stefanche\Desktop\My Stuff\University Stuff 2nd Year (First Semester)\Strukturi ot danni - Laboratorni uprajneniq\Programi\Hash_Lab1\Hash.h(115,2): error C3861: 'pos': identifier not found
+C:\Users\Stefanche\Desktop\My Stuff\University Stuff 2nd Year (First Semester)\Strukturi ot danni - Laboratorni uprajneniq\Programi\Hash_Lab1\Hash.h(116,6): error C2065: 'pos': undeclared identifier
+C:\Users\Stefanche\Desktop\My Stuff\University Stuff 2nd Year (First Semester)\Strukturi ot danni - Laboratorni uprajneniq\Programi\Hash_Lab1\Hash.h(116,6): error C3861: 'pos': identifier not found
+C:\Users\Stefanche\Desktop\My Stuff\University Stuff 2nd Year (First Semester)\Strukturi ot danni - Laboratorni uprajneniq\Programi\Hash_Lab1\Hash.h(117,5): error C3861: 'pos': identifier not found
