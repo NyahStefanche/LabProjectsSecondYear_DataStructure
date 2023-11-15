@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall List<int>::~List<int>(void)" (??1?$List@H@@QAE@XZ) referenced in function "void __cdecl printList(class List<int>)" (?printList@@YAXV?$List@H@@@Z)
+C:\Users\Stefanche\Desktop\My Stuff\University Stuff 2nd Year (First Semester)\Strukturi ot danni - Laboratorni uprajneniq\Programi\Lab1_List\Debug\Lab1_List.exe : fatal error LNK1120: 1 unresolved externals
