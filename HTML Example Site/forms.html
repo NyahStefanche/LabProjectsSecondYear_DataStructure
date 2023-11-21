@@ -1,0 +1,101 @@
+<!DOCTYPE>
+<HTML>
+<HEAD>
+<meta charset="utf-8">  </meta>
+<title></title>
+<style type="text/css">
+form
+{
+	background-color:skyblue;
+	margin-right:80%;
+}
+p
+{
+	color:red;
+}
+input#equal
+{
+	margin-left:83px;
+}
+input#equal2
+{
+	margin-left:82px;
+}
+label
+{
+	text-align:left;
+	padding-right:10px;
+}
+input#equal3
+{
+	margin-left:44px;
+}
+input#equal4
+{
+	margin-left:9px;
+}
+input#equal5
+{
+	margin-left:16px;
+}
+input#equal6
+{
+	margin-left:99px;
+}
+label#equal7
+{
+	padding-right:97px;
+}
+label#equal8
+{
+	padding-right:107px;
+}
+</style>
+</HEAD>
+<BODY>
+<form>
+<fieldset>
+<legend> Регистрационна форма </legend>
+<label for="name"> Потребителско име </label>
+<input type="text"> <br>
+<label for="email"> Е-майл </label>
+<input type="text" id="equal"> <br>
+<label for="password" > Парола </label>
+<input type="password" id="equal2">
+<p> Минимална дължина на паролата 8 символа </p>
+</fieldset>
+<fieldset>
+<legend> Лична информация </legend>
+<label for="allnames"> Трите имена </label>
+<input type="text" id="equal3"> <br>
+<label for="pol" id="equal8"> Пол </label>
+<input type="radio" id="male" name="gender" value="Мъж">
+<label for="male"> Мъж </label>
+<input type="radio" id="female" name="gender" value="Жена">
+<label for="female"> Жена </label><br>
+<label for="phone"> Телефонен номер </label>
+<input type="text" id="equal4"> <br>
+<label for="birth"> Дата на раждане </label>
+<input type="date" id="equal5"> <br>
+<label for="city"> град </label>
+<input list="Cities" placeholder="Град" id="equal6"> <br>
+<datalist id="Cities">
+<option value="Шумен">
+<option value="Перник">
+<option value="Варна">
+<option value="София">
+<option value="Благоевград">
+<option value="Бургас">
+<option value="Пловдив">
+<option value="Русе">
+</datalist>
+<label for="address" id="equal7"> Адрес </label>
+<textarea> </textarea>
+</fieldset>
+<fieldset>
+<input type="submit" value="Изпращане на данните"> <br>
+<input type="reset" value="Изтриване на данните">
+</fieldset>
+</form>
+</BODY>
+</HTML>
